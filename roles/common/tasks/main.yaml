@@ -7,6 +7,8 @@
     msg: "MSG-2"
 
 - name: TASK-3
+  set_fact:
+    course: "DevSecOps"
   debug:
     msg: "MSG-3"
 
