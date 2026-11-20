@@ -3,8 +3,8 @@
   connection: local
   tasks:
   - name: Printing tasks in role-1
-    # include_role:
-    import_role:
+    include_role:
+    # import_role:
       name: role-1
     loop:
     - Ramesh
