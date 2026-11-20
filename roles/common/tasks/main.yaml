@@ -1,6 +1,8 @@
 - name: TASK-1
   debug:
     msg: "MSG-1"
+  tags:
+  - hi
 
 - name: TASK-2
   debug:
@@ -13,6 +15,8 @@
 - name: TASK-4
   debug:
     msg: "MSG-4"
+  tags:
+  - hi
 
 - name: TASK-5
   debug:
