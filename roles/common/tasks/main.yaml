@@ -8,7 +8,7 @@
 
 - name: TASK-3
   debug:
-    msg: "MSG-3"
+    msgg: "MSG-3"
 
 - name: TASK-4
   debug:
