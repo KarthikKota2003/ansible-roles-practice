@@ -7,8 +7,8 @@
     msg: "MSG-2"
 
 - name: TASK-3
-  debug:
-    msgg: "MSG-3"
+  debugg:
+    msg: "MSG-3"
 
 - name: TASK-4
   debug:
