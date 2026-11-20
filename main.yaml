@@ -5,3 +5,5 @@
   - name: Printing tasks in role-1
     include_role:
       name: role-1
+    tags:
+    - hi
