@@ -1,0 +1,19 @@
+- name: TASK-1
+  debug:
+    msg: "MSG-1"
+
+- name: TASK-2
+  debug:
+    msg: "MSG-2"
+
+- name: TASK-3
+  debug:
+    msg: "MSG-3"
+
+- name: TASK-4
+  debug:
+    msg: "MSG-4"
+
+- name: TASK-5
+  debug:
+    msg: "MSG-5"

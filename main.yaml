@@ -1,0 +1,7 @@
+- name: Testing include-vs-import role
+  hosts: local
+  connection: local
+  tasks:
+  - name: Printing tasks in role common
+    include_role:
+      name: common
