@@ -6,5 +6,8 @@
     # include_role:
     import_role:
       name: role-1
+    loop:
+    - Ramesh
+    - Suresh
     tags:
     - hi
