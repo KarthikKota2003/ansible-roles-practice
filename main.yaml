@@ -2,8 +2,6 @@
   hosts: local
   connection: local
   tasks:
-  - name: Printing tasks in role common
+  - name: Printing tasks in role-1
     include_role:
-    # import_role:
-      name: common
-    when: course == "DevOps"
+      name: role-1
